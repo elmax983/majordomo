@@ -1262,7 +1262,7 @@ $dictionary = array(
 'APPLIES_TO' => 'Εφαρμογή σε',
 
 'AUTO_LINK' => 'Αυτόματη εκτέλεση δέσμης ενεργειών',
-'FAVORITE_DEVICE' => 'В списке быстрого доступа',
+'FAVORITE_DEVICE' => 'Στη λίστα γρήγορης πρόσβασης',
 
 'ROOMS' => 'Δωμάτια',
 'APPEARANCE' => 'Εμφάνιση',

@@ -13,7 +13,7 @@ $dictionary=array(
 'KB_URL'=>'https://kb.majordomohome.com/',
 'DEFAULT_COMPUTER_NAME'=>'Alisa',
 'WELCOME_GREETING'=>'Tere tulemast',
-'WELCOME_TEXT'=>'Tänud, et otsustasid MajorDoMo avatud lähtekoodiga Targa Kodu serveri kasuks. liituge foorumiga ja saage teada rohkemat.  <a href="<#LANG_WIKI_URL#>" target=_blank>Веб-сайт</a> | <a href="<#LANG_WIKI_URL#>forum/" target=_blank>Форум</a> | <a href="https://www.facebook.com/SmartLivingRu" target=_blank>Facebook страница</a> <br/>&nbsp;<br/>&nbsp;<br/><small> P.S. Avalehte saab muuta :  <a href="/admin.php?pd=&md=panel&inst=&action=layouts">Juhtpaneel</a></small>',
+'WELCOME_TEXT'=>'Tänud, et otsustasid MajorDoMo avatud lähtekoodiga Targa Kodu serveri kasuks. liituge foorumiga ja saage teada rohkemat.  <a href="<#LANG_WIKI_URL#>" target=_blank>Veebisait</a> | <a href="<#LANG_WIKI_URL#>forum/" target=_blank>Foorum</a> | <a href="https://www.facebook.com/SmartLivingRu" target=_blank>Facebooki leht</a> <br/>&nbsp;<br/>&nbsp;<br/><small> P.S. Avalehte saab muuta :  <a href="/admin.php?pd=&md=panel&inst=&action=layouts">Juhtpaneel</a></small>',
 'CONTROL_PANEL'=>'Juhtmisepaneel',
 'TERMINAL'=>'Terminal',
 'USER'=>'Kasutaja',
